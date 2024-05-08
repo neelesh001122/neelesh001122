@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **neelesh001122@gmail.com**
 
-- 📄 Know about my experiences [Neelesh]([https://sho](https://linkedin.com/in/neelesh001122))
+- 📄 Know about my experiences [Neelesh](https://linkedin.com/in/neelesh001122)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
