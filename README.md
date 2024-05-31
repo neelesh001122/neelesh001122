@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelesh001122&label=Profile%20views&color=0e75b6&style=flat" alt="neelesh001122" /> </p>
 
-- 🔭 I’m currently working on **Sentiment Analysis on Covid-19 Twitter Data**
+- 🔭 I’m currently working on **Interactive Dashboard in Excel, Data Analytics Project**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, MySQL**
 
-- 💬 Ask me about **Python, Statics**
+- 💬 Ask me about **Python, MySQL***
 
-- 📫 How to reach me **neelesh001122@gmail.com**
+- 📫 How to reach me **neelesh001122@gmail.com, +916393004748**
 
-- 📄 Know about my experiences [Neelesh](https://linkedin.com/in/neelesh001122)
+- 📄 Know about my experiences [Neelesh Veerma| LinkedIn](https://linkedin.com/in/neelesh001122)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
