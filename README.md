@@ -1,27 +1,103 @@
-![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
+```md
+<h1 align="center">🚀 Neelesh Verma</h1>
 
-<h1 align="center">Hi 👋, I'm Neelesh Verma</h1>
-<h3 align="center">A passionate Data Science Engineer from UP,India</h3>
-<img align="right" al="Coding" widgt="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<h3 align="center">
+AI • Data Analytics • Automation • Digital Growth
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neelesh001122&label=Profile%20views&color=0e75b6&style=flat" alt="neelesh001122" /> </p>
-
-- 🔭 I’m currently working on **Interactive Dashboard in Excel, Data Analytics Project**
-
-- 🌱 I’m currently learning **Machine Learning, MySQL**
-
-- 💬 Ask me about **Python, MySQL***
-
-- 📫 How to reach me **neelesh001122@gmail.com, +916393004748**
-
-- 📄 Know about my experiences [Neelesh Veerma| LinkedIn](https://linkedin.com/in/neelesh001122)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neelesh001122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelesh001122" height="30" width="40" /></a>
+<p align="center">
+Building futuristic digital experiences with AI, analytics, and modern web technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neelesh001122&show_icons=true&locale=en&layout=compact" alt="neelesh001122" /></p>
+## 🌐 Portfolio Website
+
+🔗 https://neelesh-portfolio-rho.vercel.app/
+
+---
+
+## 👨‍💻 About Me
+
+- 🎯 Focused on **AI, Data Analytics & Automation**
+- 📊 Building interactive dashboards & intelligent systems
+- 🤖 Exploring Machine Learning & AI-driven products
+- 🚀 Passionate about modern UI/UX and futuristic web experiences
+- 💡 Interested in solving real-world business problems with data
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Social Buzz Analytics
+Data analytics project focused on content trends, engagement analysis, and business insights.
+
+### 🤖 Fraud Detection System
+Machine learning model trained on large-scale transaction datasets to detect fraudulent activity.
+
+### 💻 Laptop Price Predictor
+ML-based web application for predicting laptop prices using regression models.
+
+### 🚦 Road Accident Dashboard
+Interactive dashboard visualizing accident trends and insights using analytics tools.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=neelesh001122&show_icons=true&theme=tokyonight"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelesh001122&layout=compact&theme=tokyonight"
+/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://neelesh-portfolio-rho.vercel.app/
+- 💼 LinkedIn: https://linkedin.com/in/neelesh001122
+- 📧 Email: neelesh001122@gmail.com
+
+---
+
+<p align="center">
+✨ Building The Future With AI ✨
+</p>
+```
